@@ -1,0 +1,15 @@
+.idea/
+vendor/
+
+*.DS_Store
+
+tf_generated/
+.terraform/
+.backup
+terraform.tfstate.d/
+*.tfplan
+*.tfstate
+*tfstate.backup
+*.env
+
+node_modules/
